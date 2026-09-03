@@ -1,0 +1,11 @@
+.env
+.lead_finder_cache.json
+leads_*.csv
+leads_*.xlsx
+leads_*.json
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+build/
